@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">- 💼 Currently working at [Your Current Company/Institution]<br>- 🎓 Btech from [SOA university] <br>- 🌍 Based in [Bhubaneswar]<br>- 🌱 I’m currently learning [python]</p>
+<p align="left">- 💼 Currently working at [Your Current Company/Institution]<br>- 🎓 Btech from [SOA university] <br>- 🌍 Based in [Bhubaneswar]<br>- 🌱 I’m currently learning [Flutter]</p>
 
 ###
 
