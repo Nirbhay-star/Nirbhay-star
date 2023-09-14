@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=NIrbhay-star.NIrbhay-star&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=NIrbhay-star.NIrbhay-star&" />
 </div>
 
 ###
@@ -74,7 +74,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="gi.gif"  />
+  <img height="200" src="giphy.gif"  />
 </div>
 
 ###
